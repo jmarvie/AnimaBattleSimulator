@@ -1,0 +1,5 @@
+/target/
+
+.settings/
+/WebContent/
+/pom.xml
